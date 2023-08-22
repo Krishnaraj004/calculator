@@ -1,0 +1,31 @@
+.ro{
+    width:300px;
+    height: 390px;
+    border: 2px solid black;
+    margin: 0px auto;
+    padding: 8px;
+    top:100px;
+    position: relative;
+
+}
+h1{
+    padding-left: 30px;
+}
+.ro input{
+    margin-left: 40px;
+    margin-top: 20px;
+    padding: 10px;
+}
+.ro button{
+    padding: 5px;
+    margin-left: 60px;
+    margin-top: 20px;
+
+} 
+.ro p{
+    margin-left: 30px;
+}
+hr{
+    height: 3px;
+    background-color: black;
+}
